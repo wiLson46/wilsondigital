@@ -52,6 +52,7 @@
 .wimg {
   width: 80%;
   height: 80%;
+  margin: auto;
 }
 
 .vidContainer {

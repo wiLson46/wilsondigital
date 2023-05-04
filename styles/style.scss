@@ -28,7 +28,7 @@
     height: 50vh;
     background-color: black;
     overflow: hidden;
-    background-image:  url("../images/bubble.png");
+    background-image: url("../images/bubble.png");
     background-position: bottom;
     background-repeat: repeat-x;
 
@@ -57,6 +57,7 @@
 .wimg {
     width: 80%;
     height: 80%;
+    margin: auto;
 }
 
 .vidContainer {
