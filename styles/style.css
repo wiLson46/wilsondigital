@@ -24,6 +24,9 @@
   height: 50vh;
   background-color: black;
   overflow: hidden;
+  background-image: url("../images/bubble.png");
+  background-position: bottom;
+  background-repeat: repeat-x;
 }
 
 .seccion2 {
